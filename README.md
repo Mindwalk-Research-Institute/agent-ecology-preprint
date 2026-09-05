@@ -51,7 +51,6 @@
 }
 ```
 
-> 两处 `mindwalk-research-institute.github.io/agent-ecology-preprint` 请在建仓后替换为实际地址（`发布操作说明.md` 第 5 步给了替换命令）。
 
 ## AI 协作声明
 
