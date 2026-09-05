@@ -1,0 +1,95 @@
+# 漫步学派宣言·中文预印本阅读站
+# 构建：pip install -r requirements.txt && mkdocs serve（本地预览）
+# 部署：.github/workflows/pages.yml（GitHub Actions 自动 mkdocs build --strict → Pages）
+site_name: 欲望—智能体回路（中文预印本）
+site_description: 欲望—智能体回路：作为社会组织形态变化的智能体生态及其对要求、剩余与主体的重新定位——中文全稿在线阅读，含参考文献与附录 A。
+site_author: vincent VE
+# 建仓并开启 Pages 后把下面两行补全（repo_url 缺省时主题不显示仓库徽章，不影响构建）：
+repo_url: https://github.com/Mindwalk-Research-Institute/agent-ecology-preprint
+site_url: https://mindwalk-research-institute.github.io/agent-ecology-preprint/
+copyright: © 2026 vincent VE. 本文以 CC BY 4.0 许可发布。
+
+docs_dir: docs
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  font: false                 # 不依赖 Google Fonts：离线/内网构建均可，中文走系统字体
+  features:
+    - navigation.sections     # 侧栏分组展开
+    - navigation.top          # 长页面回顶
+    - navigation.footer       # 页尾上/下一章（与每页自带的文字导航互为双保险）
+    - navigation.tracking
+    - toc.follow
+    - search.share
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle: {icon: material/weather-night, name: 切换深色}
+    - scheme: slate
+      primary: indigo
+      toggle: {icon: material/weather-sunny, name: 切换浅色}
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify   # 中文标题生成可读锚点（默认 slugify 会把中文全剥掉）
+      toc_depth: 3
+  - tables                    # 附录 A 与 §1.8 的四列表
+  - footnotes                 # 正文 10 条 ＋ 附录 47 条脚注，原生 [^id] 语法
+  - attr_list
+  - md_in_html
+  - sane_lists
+  - pymdownx.arithmatex:      # 保护 $...$ / $$...$$ 里的下划线与星号不被 Markdown 当强调
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/paper.css
+
+plugins:
+  - search:
+      # 中文检索：按 Material 文档给的 CJK 补丁，自定义分隔符并关掉英文词干化/停用词
+      separator: '[\s\-,:!=\[\]()"`/]+|[\u00b7\u2024\u3000-\u303f\uff00-\uffef]+'
+      pipeline: []
+
+extra:
+  generator: false
+  social: []
+
+nav:
+  # 扁平列出，不引入「第一部分 / 第二部分」这类分部结构 —— 源稿（任务/T01_正文/章节/）无分部，
+  # 加部属编辑层判断，需领队与论文主笔裁定后才能写进来。
+  - 首页: index.md
+  - 第一章　导论与问题化: 01-introduction.md
+  - 第二章　核心命题：剩余不能被计划: 02-residual-unplannable.md
+  - 第三章　拉康：需求、要求、欲望: 03-lacan-demand-desire.md
+  - 第四章　否定性、幻想与偶然域: 04-negativity-fantasy.md
+  - 第五章　从「一个 Agent」到 Agent Ecology: 05-agent-ecology.md
+  - 第六章　Human–Agent–Agent–Human: 06-agent-agent-human.md
+  - 第七章　分歧、同意 Pareto、消极自由与共同世界: 07-disagreement-consent.md
+  - 第八章　Agent 作为自足的技术基础设施: 08-self-sufficient-infra.md
+  - 第九章　真实他者、摩擦与要求/欲望的形成: 09-real-other-friction.md
+  - 第十章　剩余出现在哪里: 10-where-residual-appears.md
+  - 第十一章　要求现实化的基础设施与平台预筛器: 11-demand-realization-platform.md
+  - 第十二章　欲望—智能体回路: 12-desire-agent-loop.md
+  - 第十三章　平台、协议与新的计划性: 13-platform-protocol-plan.md
+  - 第十四章　与现有研究的关系及理论缺口: 14-literature-gap.md
+  - 第十五章　三个竞争性情景: 15-competing-scenarios.md
+  - 第十六章　反论证与理论边界: 16-counter-arguments.md
+  - 第十七章　核心理论贡献: 17-core-contributions.md
+  - 第十八章　中心论点与理论收束: 18-central-thesis.md
+  - 第十九章　研究方法、反身性与限度声明: 19-method-reflexivity.md
+  - 附录 A　现况实例清单: 20-appendix-a.md
+  - 参考文献: refs.md
+
+not_in_nav: |
+  /paper/
+
+validation:
+  links:
+    unrecognized_links: info    # paper/*.pdf 由 not_in_nav 放行，避免误报

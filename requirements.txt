@@ -1,0 +1,4 @@
+# 阅读站构建依赖（GitHub Actions 里 pip install -r requirements.txt 即可，本地同）
+# 只用到 mkdocs-material 一个包：它自带 markdown、pymdown-extensions（arithmatex/uslugify）
+# 与 search 插件，因此不需要额外装 Jekyll/Ruby 工具链。
+mkdocs-material==9.6.14

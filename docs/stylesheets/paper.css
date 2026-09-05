@@ -1,0 +1,61 @@
+:root {
+  /* 中文正文：略放宽行距与段距，长句读起来不挤 */
+  --md-text-font-family: -apple-system, "Segoe UI", "Microsoft YaHei",
+    "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+}
+
+.md-typeset {
+  font-size: 0.76rem;
+  line-height: 1.9;
+}
+
+/* 脚注区：本稿附录 A 有 47 条脚注，缩一点并给出处 URL 换行许可 */
+.md-typeset ol.footnotes[role="doc-endnotes"],
+.md-typeset .footnotes {
+  font-size: 0.66rem;
+  line-height: 1.7;
+}
+
+.md-typeset .footnote > ol > li {
+  text-indent: 0;
+}
+
+/* URL 与长串允许在任意处折断，避免撑破版面 */
+.md-typeset .footnote a[href^="http"],
+.md-typeset a[href^="http"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* 表格：附录 A 的四列表与 §1.8 表，中文表头不折行、正文列宽自适应 */
+.md-typeset table:not([class]) {
+  font-size: 0.7rem;
+  display: table;
+  width: 100%;
+}
+
+.md-typeset table:not([class]) th {
+  white-space: nowrap;
+}
+
+.md-typeset table:not([class]) td {
+  vertical-align: top;
+}
+
+/* 数学块：显示式与正文之间留白，横向溢出可滚 */
+.md-typeset .arithmatex[display] {
+  margin: 0.6em 0;
+  overflow-x: auto;
+}
+
+/* 页首页尾的导航行（每页自带，不依赖主题特性） */
+.md-typeset blockquote.navline,
+.md-typeset p.navline {
+  font-size: 0.7rem;
+}
+
+/* 参考文献条目：悬挂缩进读起来快一点 */
+.md-typeset ul li[id],
+.md-typeset ol li[id] {
+  margin-bottom: 0.35em;
+}

@@ -1,0 +1,106 @@
+<!-- 本页由 协作/工具/发布站生成.py 从 plainnat 的 .bbl 生成，与 PDF 文献表同源，勿手改 -->
+# 参考文献（正文实际引用 97 条）
+
+条目由 BibTeX `plainnat` 排出，与 PDF 文献表逐字一致；中文条目（CNNIC、CAICT）按现行裁定
+维持西文形制并排在按字节序落位处（约第 60、61、71 条）。点正文里的「作者, 年」可跳到本条。
+
+- <a id="agamben2009_what_is_an_apparatus"></a>Giorgio Agamben. émphWhat Is an Apparatus? and Other Essays. Stanford University Press, Stanford, 2009. ISBN 9781503600041. 10.1515/9781503600041.
+- <a id="appel2025_uneven_ai_adoption"></a>Ruth Appel, Peter McCrory, Alex Tamkin, Miles McCain, Tyler Neylon, and Michael Stern. Anthropic Economic Index report: uneven geographic and enterprise AI adoption, 2025. URL úrlhttps://arxiv.org/abs/2511.15080.
+- <a id="bai2022_constitutional_ai"></a>Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, et al. Constitutional AI: Harmlessness from AI feedback, 2022.
+- <a id="benkler2006_wealth_networks"></a>Yochai Benkler. émphThe Wealth of Networks: How Social Production Transforms Markets and Freedom. Yale University Press, 2006. ISBN 9780300127232. 10.12987/9780300127232.
+- <a id="berlin_2002_two_concepts_of_liberty_ch"></a>Isaiah Berlin. Two concepts of liberty. In émphLiberty, pages 166–217. Oxford University Press, 2002. 10.1093/019924989x.003.0004.
+- <a id="bloch1959_prinzhoffnung_version"></a>Ernst Bloch. émphDas Prinzip Hoffnung: in drei Bänden. 1959.
+- <a id="bonini2024_algorithms_of_resistance"></a>Tiziano Bonini and Emiliano Trer\'e. émphAlgorithms of Resistance: The Everyday Fight against Platform Power. The MIT Press, Cambridge, MA, 2024. 10.7551/mitpress/14329.001.0001.
+- <a id="borges2026_tool_entity"></a>Leonardo Borges and Asif Q. Gill. The tool-to-entity threshold: Parasocial dynamics of personalised AI agents in shared social spaces, 2026. URL úrlhttps://arxiv.org/abs/2608.13586v2.
+- <a id="bowles1998_endogenous_preferences"></a>Samuel Bowles. Endogenous preferences: The cultural consequences of institutions? 1998.
+- <a id="brunton2015_obfuscation"></a>Finn Brunton and Helen Nissenbaum. émphObfuscation: A User's Guide for Privacy and Protest. The MIT Press, Cambridge, MA, 2015. 10.7551/mitpress/9780262029735.001.0001.
+- <a id="buchanan1960_calculus_consent"></a>James Buchanan and Gordon Tullock. émphThe Calculus of Consent: Logical Foundations of Constitutional Democracy. University of Michigan Press, Ann Arbor, 1962. 10.3998/mpub.7687.
+- <a id="callon1998_markets_embeddedness"></a>Michel Callon. Introduction: The embeddedness of economic markets in economics. émphThe Sociological Review, 46 (1_suppl): 1–57, 1998. 10.1111/j.1467-954x.1998.tb03468.x.
+- <a id="carroll2022_estimating_penalizing"></a>Micah Carroll, Anca Dragan, Stuart Russell, and Dylan Hadfield-Menell. Estimating and penalizing induced preference shifts in recommender systems, 2022. URL úrlhttps://arxiv.org/abs/2204.11966v2.
+- <a id="carroll2024_alignment_changing"></a>Micah Carroll, Davis Foote, Anand Siththaranjan, Stuart Russell, and Anca Dragan. AI alignment with changing and influenceable reward functions, 2024. URL úrlhttps://arxiv.org/abs/2405.17713v1.
+- <a id="chatterji2025_how_people_use_chatgpt"></a>Aaron Chatterji, Thomas Cunningham, David J. Deming, Zoe Hitzig, Christopher Ong, Carl Yan Shan, and Kevin Wadman. How people use ChatGPT. NBER Working Paper 34255, National Bureau of Economic Research, 2025.
+- <a id="chen2024_internet_agents"></a>Weize Chen, Ziming You, Ran Li, Yitong Guan, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, and Maosong Sun. Internet of agents: Weaving a Web of heterogeneous agents for collaborative intelligence, 2024. URL úrlhttps://arxiv.org/abs/2407.07061v2.
+- <a id="clark_chalmers_1998_extended_mind"></a>Andy Clark and David Chalmers. The extended mind. émphAnalysis, 58 (1): 7–19, 1998. 10.1093/analys/58.1.7.
+- <a id="clemens_grigg_2006_lacan_other_side"></a>Justin Clemens and Russell Grigg, editors. émphJacques Lacan and the Other Side of Psychoanalysis: Reflections on Seminar XVII. Duke University Press, 2006. ISBN 9780822387602. 10.1215/9780822387602.
+- <a id="coase1937_nature_firm"></a>R. H. Coase. The nature of the firm. émphEconomica, 4 (16): 386–405, 1937. 10.1111/j.1468-0335.1937.tb00002.x.
+- <a id="constant1819_liberty_of_moderns"></a>Benjamin Constant. The liberty of the ancients compared with that of the moderns. 1819.
+- <a id="dai2024_artificial_leviathan"></a>Gordon Dai, Weijia Zhang, Jinhan Li, Siqi Yang, Chidera Onochie lbe, Srihas Rao, Arthur Caetano, and Misha Sra. Artificial Leviathan: Exploring social evolution of LLM agents through the lens of Hobbesian social contract theory, 2024. URL úrlhttps://arxiv.org/abs/2406.14373v3.
+- <a id="deleuze1989_what_is_dispositif"></a>Gilles Deleuze. What is a dispositif? In émphMichel Foucault, Philosopher. Zone Books, 1989.
+- <a id="eurostat2025_ai_enterprises"></a>Eurostat. Use of artificial intelligence in enterprises, 2025. URL úrlhttps://ec.europa.eu/eurostat/statistics-explained/index.php?title=Use_of_artificial_intelligence_in_enterprises.
+- <a id="flisfeder2021_algorithmic_desire"></a>Matthew Flisfeder. émphAlgorithmic Desire: Toward a New Structuralist Theory of Social Media. Northwestern University Press, 2021. 10.2307/j.ctv1dv0w43.
+- <a id="floridi2018_ai4people"></a>Luciano Floridi, Josh Cowls, Monica Beltrametti, Raja Chatila, Patrice Chazerand, Virginia Dignum, Christoph Luetge, Robert Madelin, Ugo Pagallo, Francesca Rossi, Burkhard Schafer, Peggy Valcke, and Effy Vayena. AI4People—an ethical framework for a good AI society: Opportunities, risks, principles, and recommendations. émphMinds and Machines, 28 (4): 689–707, 2018. 10.1007/s11023-018-9482-5.
+- <a id="foucault1969_archaeology_knowledge"></a>Michel Foucault. émphArchaeology of Knowledge. Routledge, 1969. 10.4324/9780203604168.
+- <a id="foucault1977_discipline_punish"></a>Michel Foucault. émphDiscipline and Punish: The Birth of the Prison, trans. Alan Sheridan. 1977.
+- <a id="foucault1980_power_knowledge"></a>Michel Foucault. émphPower/Knowledge: Selected Interviews and Other Writings 1972–1977, ed. Colin Gordon. 1980.
+- <a id="frey_osborne2017_future_employment"></a>Carl Benedikt Frey and Michael A. Osborne. The future of employment: How susceptible are jobs to computerisation? émphTechnological Forecasting and Social Change, 114: 254–280, 2017. 10.1016/j.techfore.2016.08.019.
+- <a id="gabriel2020_artificial_intelligence"></a>Iason Gabriel. Artificial intelligence, values, and alignment. émphMinds and Machines, 30 (3): 411–437, 2020. 10.1007/s11023-020-09539-2.
+- <a id="gartner2025_agentic_canceled"></a>Gartner, Inc. Gartner predicts over 40% of agentic AI projects will be canceled by end of 2027, 2025. URL úrlhttps://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027.
+- <a id="glaser2026_axiology_agents"></a>Vern L. Glaser, Jennifer Sloan, Rodrigo Valadão, and Evelyn R. Micelotta. The axiology of AI agents: How human-AI interaction transforms values from espoused to enacted. émphAcademy of Management Review, 2026. 10.5465/amr.2024.0494.
+- <a id="hacking1995_looping_effects"></a>Ian Hacking. The looping effects of human kinds. In émphCausal Cognition, pages 351–383. Oxford University Press, 1995. 10.1093/acprof:oso/9780198524021.003.0012.
+- <a id="hadfield2025_economy_agents"></a>Gillian K. Hadfield and Andrew Koh. An economy of AI agents, 2025. URL úrlhttps://arxiv.org/abs/2509.01063v1.
+- <a id="hancock2020_ai_mc"></a>Jeffrey T. Hancock, Mor Naaman, and Karen Levy. AI-Mediated communication: Definition, research agenda, and ethical considerations. émphJournal of Computer-Mediated Communication, 25 (1): 89–100, 2020. 10.1093/jcmc/zmz022.
+- <a id="hayek1945_use_of_knowledge"></a>Friedrich A. Hayek. The use of knowledge in society. 1945.
+- <a id="hayles2016_cognitive_assemblages"></a>N. Katherine Hayles. Cognitive assemblages: Technical agency and human interactions. émphCritical Inquiry, 43 (1): 32–55, 2016. 10.1086/688293.
+- <a id="hegel1807_phenomenology_of_spirit"></a>G. W. F. Hegel. émphThe Phenomenology of Spirit, trans. Terry Pinkard. Cambridge University Press, Cambridge, 1807. ISBN 9780521855792. 10.1017/9781139050494.
+- <a id="hirschman1970_exit_voice_loyalty"></a>Albert O. Hirschman. émphExit, Voice, and Loyalty: Departure from Firms, Organizations and States. 1970.
+- <a id="hong2023_metagpt_meta"></a>Sirui Hong, Mingchen Zhuge, Jiaqi Chen, Xiawu Zheng, Yuheng Cheng, Ceyao Zhang, Jinlin Wang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, and Jürgen Schmidhuber. MetaGPT: Meta programming for a multi-agent collaborative framework, 2023. URL úrlhttps://arxiv.org/abs/2308.00352v7.
+- <a id="horton2023_large_language"></a>John J. Horton, Apostolos Filippas, and Benjamin S. Manning. Large language models as simulated economic agents: What can we learn from Homo Silicus?, 2023. URL úrlhttps://arxiv.org/abs/2301.07543v2.
+- <a id="blochwb_moeglichkeit"></a>Werner Jung. Möglichkeit. In Beat Dietschy, Doris Zeilinger, and Rainer Zimmermann, editors, émphBloch-Wörterbuch, pages 302–310. De Gruyter, 2012. 10.1515/9783110256710.302.
+- <a id="kanwal2026_constructive_alignment"></a>Max Kanwal and Caryn Tran. Constructive alignment: Governing preference dynamics in human-AI interaction, 2026. URL úrlhttps://arxiv.org/abs/2607.00001v1.
+- <a id="keynes1930_grandchildren"></a>John Maynard Keynes. Economic possibilities for our grandchildren (1930). In émphRevisiting Keynes, pages 17–26. The MIT Press, 2008. 10.7551/mitpress/7757.003.0004.
+- <a id="klein2026_headless_firm"></a>Tassilo Klein and Sebastian Wieczorek. The headless firm: How AI reshapes enterprise boundaries, 2026. URL úrlhttps://arxiv.org/abs/2602.21401v1.
+- <a id="kpmg_2025_ai_pulse"></a>KPMG LLP. AI quarterly pulse survey, 2025. URL úrlhttps://kpmg.com/us/en/media/news/kpmg-ai-quarterly-pulse-survey.html.
+- <a id="lacan_seminar5_version"></a>Jacques Lacan. Le S\'eminaire, livre V: Les formations de l'inconscient, 1957–1958, 1957.
+- <a id="lacan_seminar10_version"></a>Jacques Lacan. Le S\'eminaire, livre X: L'angoisse, 1962–1963, 1962.
+- <a id="lacan_seminar17_version"></a>Jacques Lacan. Le S\'eminaire, livre XVII: L'envers de la psychanalyse, 1969–1970, 1969.
+- <a id="lacan_milan_1972_version"></a>Jacques Lacan. Milan lectures (1972): On psychoanalytic discourse, 1972a.
+- <a id="lacan_seminar20_version"></a>Jacques Lacan. Le S\'eminaire, livre XX: Encore, 1972–1973, 1972b.
+- <a id="lacan_ecrits_complete_version"></a>Jacques Lacan. \'ecrits: The first complete edition in English, trans. Bruce Fink, 2006.
+- <a id="lacan_seminar7_ethics_routledge"></a>Jacques Lacan. émphThe Ethics of Psychoanalysis: The Seminar of Jacques Lacan, Book VII (1959–1960). Routledge (Taylor & Francis e-book), 2015. ISBN 9781315832074. 10.4324/9781315832074.
+- <a id="latour2005_reassembling_social"></a>Bruno Latour. émphReassembling the Social: An Introduction to Actor-Network-Theory. Oxford University Press, 2005. 10.1093/oso/9780199256044.001.0001.
+- <a id="leshchikova2026_delegation_asymmetry"></a>Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev, and Valerii Klimov. Delegation asymmetry in agentic recommender systems: Measuring two-sided receptivity in online dating, 2026. URL úrlhttps://arxiv.org/abs/2608.18058v1.
+- <a id="liu2026_sovereignnegotiation_bench"></a>Dylan Zongmin Liu. SovereignNegotiation-bench: Evaluating user-owned personal agents in delegated bargaining under privacy, consent, evidence, and institutional pressure, 2026. URL úrlhttps://arxiv.org/abs/2607.02814v1.
+- <a id="mackenzie2006_engine_not_camera"></a>Donald MacKenzie. émphAn Engine, Not a Camera: How Financial Models Shape Markets. The MIT Press, 2006. ISBN 9780262278805. 10.7551/mitpress/9780262134606.001.0001.
+- <a id="marx1894_capital_volume_3"></a>Karl Marx. émphCapital: A Critique of Political Economy, Volume III. 1894.
+- <a id="mcgowan2016_capitalism_desire"></a>Todd McGowan. émphCapitalism and Desire: The Psychic Cost of Free Markets. Columbia University Press, 2016. 10.7312/mcgo17872.
+- <a id="minsky1986_society_of_mind"></a>Marvin Minsky. émphThe Society of Mind. 1986.
+- <a id="negroponte1995_being_digital"></a>Nicholas Negroponte. émphBeing Digital. 1995.
+- <a id="openai2025_how_people_are_using_chatgpt"></a>OpenAI. How people are using ChatGPT, 2025. URL úrlhttps://openai.com/index/how-people-are-using-chatgpt/.
+- <a id="ouyang2022_instructgpt"></a>Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, et al. Training language models to follow instructions with human feedback, 2022.
+- <a id="park2023_generative_agents"></a>Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, and Michael S. Bernstein. Generative agents: Interactive simulacra of human behavior, 2023. URL úrlhttps://arxiv.org/abs/2304.03442v2.
+- <a id="pew2025_chatgpt_use"></a>Pew Research Center. ChatGPT use among Americans roughly doubled since 2023, 2025. URL úrlhttps://www.pewresearch.org/short-reads/2025/06/25/34-of-us-adults-have-used-chatgpt-about-double-the-share-in-2023/.
+- <a id="pew2026_ai_views"></a>Pew Research Center. Americans' views on AI chatbots, smart devices and AI's impact, 2026. URL úrlhttps://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/.
+- <a id="pfaller2017_interpassivity"></a>Robert Pfaller. émphInterpassivity: The Aesthetics of Delegated Enjoyment. Edinburgh University Press, 2017. 10.1515/9781474422949.
+- <a id="piao2025_agentsociety_large"></a>Jinghua Piao, Yuwei Yan, Jun Zhang, Nian Li, Junbo Yan, Xiaochong Lan, Zhihong Lu, Zhiheng Zheng, Jing Yi Wang, Di Zhou, Chen Gao, Fengli Xu, Fang Zhang, Ke Rong, Jun Su, and Yong Li. AgentSociety: Large-scale simulation of LLM-Driven generative agents advances understanding of human behaviors and society, 2025. URL úrlhttps://arxiv.org/abs/2502.08691v2.
+- <a id="putnam1995_bowling_alone"></a>Robert D Putnam. Bowling alone: America's declining social capital. émphJournal of Democracy, 6 (1): 65–78, 1995. 10.1353/jod.1995.0002.
+- <a id="pwc2025_global_workforce_survey"></a>PwC. Daily GenAI users see higher pay, job security and productivity – while a third of the global workforce regularly feel overwhelmed, 2025. URL úrlhttps://www.pwc.com/gx/en/news-room/press-releases/2025/pwc-2025-global-workforce-survey.html.
+- <a id="pyo2026_one_is_not_enough"></a>Seunghwa Pyo, Donggun Lee, Jungwoo Rhee, Soobin Park, and Youn-kyung Lim. One is not enough: how people use multiple AI models in everyday life, 2026. URL úrlhttps://arxiv.org/abs/2603.26107.
+- <a id="rammert2008_distributed_agency"></a>Werner Rammert. Distributed agency. 2008.
+- <a id="ruan2026_logic_monopoly"></a>Anbang Ruan. From logic monopoly to social contract: Separation of power and the institutional foundations for autonomous agent economies, 2026. URL úrlhttps://arxiv.org/abs/2603.25100v1.
+- <a id="schuster2016_practice_of_happy"></a>Anke Marie Henrike Schuster. émphThe Practice of the Happy: Critique and Affirmation in Deleuze, Simondon, and Contemporary Affirmative Ethics. 2016.
+- <a id="sen1977_rational_fools"></a>Amartya Sen. Rational fools: A critique of the psychological foundations of economic behavior. 1977.
+- <a id="shirky2008_here_comes_everybody"></a>Clay Shirky. émphHere Comes Everybody: The Power of Organizing Without Organizations. 2008.
+- <a id="blochwb_noch_nicht"></a>Johan Siebers. Noch-nicht. In Beat Dietschy, Doris Zeilinger, and Rainer Zimmermann, editors, émphBloch-Wörterbuch, pages 403–412. De Gruyter, 2012. 10.1515/9783110256710.403.
+- <a id="simmel1900_philosophy_of_money"></a>Georg Simmel. émphThe Philosophy of Money, trans. Tom Bottomore. 1900.
+- <a id="stackoverflow2025_developer_survey_ai"></a>Stack Overflow. 2025 Stack Overflow Developer Survey: AI, 2025. URL úrlhttps://survey.stackoverflow.co/2025/ai.
+- <a id="stanford_hai_2025_ai_index"></a>Stanford Institute for Human-Centered AI. The 2025 AI Index Report, 2025. URL úrlhttps://hai.stanford.edu/ai-index/2025-ai-index-report.
+- <a id="stiegler1994_technics_time_1"></a>Bernard Stiegler. émphTechnics and Time, 1: The Fault of Epimetheus. Stanford University Press, 1994. 10.1515/9781503616738.
+- <a id="tomaev2026_value_alignment"></a>Nenad Tomašev, Matija Franklin, and Simon Osindero. AI value alignment for evolving social norms, 2026. URL úrlhttps://arxiv.org/abs/2607.18506v1.
+- <a id="tomsic2015_capitalist_unconscious"></a>Samo Tomšič. émphThe Capitalist Unconscious: Marx and Lacan. Verso, New York, 2015.
+- <a id="weyl2022_decentralized_society"></a>Eric Glen Weyl, Puja Ohlhaver, and Vitalik Buterin. Decentralized society: Finding Web3's soul. SSRN working paper (preprint, not peer-reviewed), 2022.
+- <a id="wicksell1958_principle_just"></a>Knut Wicksell. A new principle of just taxation. In émphClassics in the Theory of Public Finance, pages 72–118. Palgrave Macmillan UK, London, 1958. 10.1007/978-1-349-23426-4_6.
+- <a id="williamson1985_economic_institutions"></a>Oliver E. Williamson. émphThe Economic Institutions of Capitalism: Firms, Markets, Relations, Contracting. 1985.
+- <a id="wu2023_autogen"></a>Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, et al. AutoGen: Enabling next-gen LLM applications via multi-agent conversation, 2023.
+- <a id="ziewitz2019_ethical_work"></a>Malte Ziewitz. Rethinking gaming: The ethical work of optimization in Web-Based platforms. émphSocial Studies of Science, 49 (5): 707–731, 2019. 10.1177/0306312719865607.
+- <a id="zizek1989_sublime_object"></a>Slavoj Zižek. émphThe Sublime Object of Ideology. Verso, London and New York, 1989.
+- <a id="zizek1993_tarrying_negative"></a>Slavoj Zižek. émphTarrying with the Negative: Kant, Hegel, and the Critique of Ideology. 1993.
+- <a id="zizek1997_plague_of_fantasies"></a>Slavoj Zižek. émphThe Plague of Fantasies. Verso, London and New York, 1997.
+- <a id="zizek2004_organs_without_bodies"></a>Slavoj Zižek. émphOrgans without Bodies: On Deleuze and Consequences. Routledge, 2004. 10.4324/9780203120392.
+- <a id="blochwb_utopie"></a>Peter Zudeick. Utopie. In Beat Dietschy, Doris Zeilinger, and Rainer Zimmermann, editors, émphBloch-Wörterbuch, pages 633–664. De Gruyter, 2012. 10.1515/9783110256710.633.
+- <a id="zupancic2000_ethics_of_real"></a>Alenka Zupančič. émphThe Ethics of the Real: Kant, Lacan. Verso, London and New York, 2000.
+- <a id="cnnic2025_genai_application"></a>中国互联网络信息中心. 生成式人工智能应用发展报告（2025）, 2025. URL úrlhttps://cnnic.cn/n4/2025/1021/c88-11391.html.
+- <a id="cnnic2026_57th_statistical_report"></a>中国互联网络信息中心. 第57次《中国互联网络发展状况统计报告》, 2026. URL úrlhttps://cnnic.cn/n4/2026/0304/c88-11549.html.
+- <a id="caict2025_ai_industry_report"></a>中国信息通信研究院. 人工智能产业发展研究报告（2025年）, 2025. URL úrlhttps://www.caict.ac.cn/kxyj/qwfb/ztbg/202602/P020260213607027089305.pdf.
+
+---
+> [📖 目录](index.md) ｜ [⬅ 回到附录 A](20-appendix-a.md)

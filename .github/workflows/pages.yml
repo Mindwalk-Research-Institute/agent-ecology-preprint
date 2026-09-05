@@ -1,0 +1,45 @@
+name: 部署阅读站到 GitHub Pages
+
+# 推 main（或手动触发）即重建 docs/ 并部署到 Pages。
+# 需要做的唯一一次设置：Settings → Pages → Build with: GitHub Actions（见 发布操作说明.md）。
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      # --strict：任何告警（坏链、缺锚点、未列入 nav 的页面）都当失败，
+      # 防的是「站点静默少一章 / 正文引用点不进文献表」——宁可构建红掉。
+      - run: mkdocs build --strict
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
