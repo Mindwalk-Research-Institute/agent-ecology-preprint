@@ -10,6 +10,8 @@
 > （815,101 字节 · MD5 `c579d4efa00e9d80a117ed67641daa95` · 书签、脚注连续编号、正文 § 交叉引用可点击跳转）
 >
 > 初版 v5（92 页，MD5 `e682aefbff036840189c1af08bace201`）仍可访问：[paper/paper-cn-v5.pdf](paper/paper-cn-v5.pdf)。v5.1 相对 v5 的改动见 [勘误页](docs/errata.md)。
+>
+> ⚠️ **若您引用 v5，请注意**：v5 参考文献表中 Schuster 一条的作者名与书名均有误（误作 Anke Marie Henrike Schuster《The Practice of the Happy…》）。正确条目为 **Aaron Schuster, *The Trouble with Pleasure: Deleuze and Psychoanalysis*, The MIT Press, 2016, doi:10.7551/mitpress/9678.001.0001**。该条已在 v5.1 更正。
 
 ---
 
