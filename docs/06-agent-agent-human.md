@@ -55,7 +55,7 @@ $$\text{Functional } H\text{-}H \text{ relations} \longrightarrow A\text{-}A \te
    $$\text{Direct Dependency} \downarrow \quad \text{与} \quad \text{Mandatory Encounter} \downarrow$$
    在表层社会中，个体之间的直接物理接触与强制性依赖显著降低。个体通过调用自身的 Agent 生态（$\mathcal{A}$），即可独立调动过去需要依赖庞大组织或复杂人际网络才能实现的行动能力。
 
-这种结构呈现出一种不同于传统社会学描述的原子化状态——**技术自足型原子化（techno-autarkic atomization）**：由技术自足（technical self-sufficiency）——即个体不再依赖特定他人的同意即可组织行动——所导致的原子化形态，区别于以孤立无能为特征的传统原子化。
+这种结构呈现出一种不同于传统社会学描述的原子化状态——**技术自足型原子化（techno-autarkic atomization）**：由技术自足（technical self-sufficiency）——即个体不再依赖任何人类他人的同意即可组织行动——所导致的原子化形态，区别于以孤立无能为特征的传统原子化。
 
 必须严格区分这一状态与传统社会学意义上的“孤独社会”或个体化理论[[Putnam, 1995](refs.md#putnam1995_bowling_alone)]。传统社会理论所诊断的原子化，通常伴随着孤立个体的脆弱无力与组织支持的溃散。然而，Agent 社会中的原子化并非表现为无能的孤立，而是表现为**个体行动能力被技术放大后的技术自足（technical self-sufficiency）**。
 

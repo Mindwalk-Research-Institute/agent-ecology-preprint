@@ -42,7 +42,7 @@ $$\text{Agent Ecology} \longrightarrow \text{Less Necessary Functional } H\text{
 在当代技术伦理学与法哲学中，探讨个人自主性（autonomy）与代理委托的模型层出不穷。学者们广泛探讨了消极不干涉（non-interference）、技术对人类行动能力的赋能（capability enhancement）、委托代理中的“元自主性”（meta-autonomy），以及如何在高度自动化系统中维系“有意义的人类控制”（meaningful human control）[[Floridi et al., 2018](refs.md#floridi2018_ai4people); [Gabriel, 2020](refs.md#gabriel2020_artificial_intelligence)]。部分前沿法经济学研究（如 Hadfield & Koh 2025 探讨由 AI 代理构成的经济体对企业边界与法律契约的重塑[[Hadfield and Koh, 2025](refs.md#hadfield2025_economy_agents)]）亦开始关注自主代理在市场中的缔约权能。
 
 ### 2. 本文的理论推进与缺口
-既有文献在评估自主性受损或增强时，几乎无一例外地采纳了第一章（§一）所批评的**“人类主体性的保存性构想（preservative conception of human agency）”**——即预先设定一个拥有完备理性、清晰意图与稳定偏好的先验主体（$H_0$），并以该主体是否遭受算法操纵或控制权流失为单一评判尺度。
+既有文献在评估自主性受损或增强时，在本文已检索并经验通的当代竞争者中，采纳第一章（§一）所批评的**“人类主体性的保存性构想（preservative conception of human agency）”**者占比最高——即预先设定一个拥有完备理性、清晰意图与稳定偏好的先验主体（$H_0$），并以该主体是否遭受算法操纵或控制权流失为单一评判尺度。该倾向的分布仅有一项探索性线索可参，其口径与限度见 §1.6 与 §十九 研究限度第 1 条。
 
 本文的推进在于：
 1. **摒弃先验完备主体的假设**：立足拉康精神分析，指出人类主体从来不是自我透明的实体，而是由语言与象征秩序切开的、未完成的被划杠主体（$\bar{S}$，§三）；
@@ -51,7 +51,7 @@ $$\text{Agent Ecology} \longrightarrow \text{Less Necessary Functional } H\text{
 
 ---
 
-## 14.3 偏好形成与关系自主性（Preference Formation & Relational Autonomy）
+## 14.3 偏好形成与内生偏好动力学（Preference Formation and Endogenous Preference Dynamics）
 
 ### 1. 现有研究的理论进展
 面对算法推荐与强化学习系统的深远影响，认知科学与对齐理论界已逐渐突破了新古典经济学“外生给定偏好”的教条。学者们开始承认偏好的内生性与动态可塑性。例如，卡罗尔等人（Carroll et al. 2022, 2024）在奖励函数随交互而变化并可被系统影响的动态奖励 MDP（Dynamic Reward MDPs, DR-MDPs）框架下形式化了偏好漂移问题[[Carroll et al., 2024](refs.md#carroll2024_alignment_changing)][[Carroll et al., 2022](refs.md#carroll2022_estimating_penalizing)]；坎瓦尔与陈（Kanwal & Tran 2026）提出了“建构性对齐”（Constructive Alignment），旨在治理人机交互中动态内生演化的偏好轨迹[[Kanwal and Tran, 2026](refs.md#kanwal2026_constructive_alignment)]；托马谢夫等人（Tomašev et al. 2026）则论证了静态价值对齐在演化社会规范面前的锁死风险[[Tomašev et al., 2026](refs.md#tomaev2026_value_alignment)]。
@@ -59,9 +59,10 @@ $$\text{Agent Ecology} \longrightarrow \text{Less Necessary Functional } H\text{
 ### 2. 本文的理论推进与缺口
 尽管上述前沿工作已经成功将“偏好漂移”纳入计算与对齐视野，但其概念工具箱依然受限于功利主义或强化学习的效用论范畴（utility / preferences）。
 
-本文在理论层面实现了两项根本推进：
+本文在理论层面实现了三项根本推进：
 1. **严格切分偏好/要求与欲望**：本文明确指出，计算模型所能捕捉、建模与诱导的，永远只是主体在经验层面的消费选择与形式化言说——即**偏好（preferences）与要求（demande）**；而拉康意义上的**欲望（desire）**在要求中被表达而不被要求穷尽；要求被应答后留存者是剩余，欲望围绕它而动（$\text{Desire} = \text{Demande} - \text{Need}$ 给出的是这一剩余所在的位置，§三）；
 2. **拒斥“原真偏好”的浪漫主义神话**：本文坚决拒绝假定存在某种未受技术污染的、纯洁的“前 AI 原真偏好（authentic preference）”。人类主体的欲望始终是在与他者（语言、制度、技术部署）的遭遇中被折射与激发的。第十二章（§十二）所提出的 Desire–Agent Loop 证明：技术生态并非单向操纵偏好，而是通过调节剩余（$\text{rest}_t$）显化的频率与位置，递归地重塑着下一轮主体化与欲望生成的社会条件。
+3. **给出一个可判别的观察位**：上述两项切分若停留在表征范畴层面，尚不构成与偏好动力学模型的经验分歧。本文进一步指出其分岔处：Agent 生态的编排层始终是任务尺度（task-scale）的，而非人尺度（person-scale）的（§5.3）。因此，在交付经核验完全符合既定要求、且期间无新信息到达与外生约束变动的事件子集内，内生偏好模型预期主体的修正行为随建模精度提升而收敛（其偏离可被归入模型设定误差并由更好的模型吸收）；本文则预期该子集内的覆盖、撤回与直接介入仍以非零比率持存，因其成因不是模型对偏好的刻画误差，而是要求与欲望之间的落差（§9.3）。两者在同一观察量上给出方向相反的预期，该子集内的发生率供后续经验研究校准。
 
 ---
 
@@ -120,7 +121,7 @@ $$\text{Desire} \longrightarrow \text{Demande} \longrightarrow \text{Goal} \long
 
 | 理论脉络 | 代表学者与文献 | 核心先行洞见 | 本文的承接、差异与超越点 |
 |---|---|---|---|
-| **货币哲学与非人身依赖** | 齐美尔（Simmel 1900）[[Simmel, 1900](refs.md#simmel1900_philosophy_of_money)] | 货币将人身依附转变为非人身依赖，降低交易阻力 | 货币流通仍需特定交易对手愿意自愿接受（保留他人否决权）；而 Agent 是这一序列中第一种使个体的“组织与协商能力”**无需经由特定他人预先同意即可获得规模化调用的基础设施**（§1.4 机制 i）。 |
+| **货币哲学与非人身依赖** | 齐美尔（Simmel 1900）[[Simmel, 1900](refs.md#simmel1900_philosophy_of_money)] | 货币将人身依附转变为非人身依赖，降低交易阻力 | 货币流通仍需特定交易对手愿意自愿接受（保留他人否决权）；而 Agent 是这一序列中第一种使个体的“组织与协商能力”**无需经由任何人类他人（无论特定他人还是任一可替代的他人）预先同意即可获得规模化调用的基础设施**（§1.4 机制 i）。 |
 | **交易成本与企业契约理论** | 科斯（Coase 1937）、威廉姆森（Williamson 1985）[[Coase, 1937](refs.md#coase1937_nature_firm); [Williamson, 1985](refs.md#williamson1985_economic_institutions)] | 组织因克服市场交易成本而诞生；企业边界由交易成本决定 | 本文引入 $C_{Demande \to R}$ 刻画要求现实化摩擦；但强调**协调成本并未归零，而是从人类层迁移至基础设施与协议层**（§13.1）。 |
 | **点对点协作与去中介化** | 本克勒（Benkler 2006）、席基（Shirky 2008）[[Benkler, 2006](refs.md#benkler2006_wealth_networks); [Shirky, 2008](refs.md#shirky2008_here_comes_everybody)] | 互联网降低通信与组织成本，催生非市场协同 | 互联网仅降低信息传递成本，行动仍需大量人类劳动；Agent **实体性吸收了组织与协商劳动本身**，且作为“提出目标的中介”参与回路（§1.4 机制 ii）。 |
 | **循环效应与技术操演性** | 哈金（Hacking 1995）、卡隆（Callon 1998）、麦肯齐（MacKenzie 2006）[[Callon, 1998](refs.md#callon1998_markets_embeddedness); [MacKenzie, 2006](refs.md#mackenzie2006_engine_not_camera); [Hacking, 1995](refs.md#hacking1995_looping_effects)] | 分类与理论模型具有操演性，反身重构其所描述的现实与主体 | 本文的反馈回路承认操演性为先行版本；差异在于引入了**拉康主体分裂与不可交付之剩余（remainder）**，阐明了操演性闭环为何必然遭遇实在界的裂隙。 |

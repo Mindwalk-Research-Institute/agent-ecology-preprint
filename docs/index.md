@@ -3,9 +3,9 @@
 
 **作者与单位**：vincent VE　漫步学派研究院
 
-**日期**：2026 年 9 月 4 日｜**版本**：v5 定稿｜**许可证**：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)（许可证全文见仓库根目录 LICENSE 文件）
+**日期**：2026 年 9 月 14 日｜**版本**：v5 定稿｜**许可证**：[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)（许可证全文见仓库根目录 LICENSE 文件）
 
-**下载 PDF**：[中文全稿（92 页，含参考文献与附录 A）](paper/paper-cn-v5.pdf)
+**下载 PDF**：[中文全稿（93 页，含参考文献与附录 A）](paper/paper-cn-v5.1.pdf)
 
 ---
 

@@ -1,13 +1,15 @@
 # 欲望—智能体回路：作为社会组织形态变化的智能体生态及其对要求、剩余与主体的重新定位
 
 **作者与单位**：vincent VE　漫步学派研究院
-**日期 / 版本**：2026 年 9 月 4 日 · 中文全稿 v5 定稿（**预印本，尚未同行评审**）
+**日期 / 版本**：2026 年 9 月 14 日 · 中文全稿 v5.1（**预印本，尚未同行评审**；初版 v5 为 2026 年 9 月 4 日，保留可访问）
 **许可证**：[CC BY 4.0](LICENSE)（本仓库全部文本内容适用，含 `paper/` 下的 PDF）
 
 > **在线阅读**：开启 GitHub Pages 后的站点地址（建仓与开启步骤见 [发布操作说明.md](发布操作说明.md)）；
 > 未开 Pages 时，本仓库内的 [`docs/`](docs/) 目录在 GitHub 上也可直接逐页阅读。
-> **下载 PDF**：[中文全稿，92 页，含参考文献与附录 A](paper/paper-cn-v5.pdf)
-> （811,480 字节 · MD5 `e682aefbff036840189c1af08bace201` · 107 条书签、脚注连续编号、正文 § 交叉引用可点击跳转）
+> **下载 PDF**：[中文全稿 v5.1，93 页，含参考文献与附录 A](paper/paper-cn-v5.1.pdf)
+> （815,101 字节 · MD5 `c579d4efa00e9d80a117ed67641daa95` · 书签、脚注连续编号、正文 § 交叉引用可点击跳转）
+>
+> 初版 v5（92 页，MD5 `e682aefbff036840189c1af08bace201`）仍可访问：[paper/paper-cn-v5.pdf](paper/paper-cn-v5.pdf)。v5.1 相对 v5 的改动见 [勘误页](docs/errata.md)。
 
 ---
 
@@ -24,7 +26,7 @@
 | 入口 | 说明 |
 |---|---|
 | [在线阅读站](docs/index.md) | 第一至十九章 ＋ 附录 A ＋ 参考文献，侧栏导航、每页页首页尾有上一章/下一章、全文检索、公式由 MathJax 渲染 |
-| [PDF 全稿](paper/paper-cn-v5.pdf) | 92 页学术排版（xelatex ＋ ctex ＋ plainnat），标题页 → 摘要 → 正文 → 参考文献（p80–86）→ 附录 A（p87–92） |
+| [PDF 全稿](paper/paper-cn-v5.1.pdf) | 93 页学术排版（xelatex ＋ ctex ＋ plainnat），标题页 → 摘要 → 正文 → 参考文献（p81–86）→ 附录 A（p87–93） |
 | [参考文献](docs/refs.md) | 正文实际引用 **97 条**，由 BibTeX `plainnat` 排出，与 PDF 文献表同源同字；正文里的「作者, 年」在站点上可直接点进本条 |
 
 正文引用形式为「作者, 年」；脚注连续编号（正文 1–10、附录 A 11–57）。
@@ -34,7 +36,7 @@
 
 **中文格式**
 
-> vincent VE. 欲望—智能体回路：作为社会组织形态变化的智能体生态及其对要求、剩余与主体的重新定位［EB/OL］. 漫步学派研究院，预印本（尚未同行评审），2026-09-04. ⟨https://mindwalk-research-institute.github.io/agent-ecology-preprint/paper/paper-cn-v5.pdf⟩.
+> vincent VE. 欲望—智能体回路：作为社会组织形态变化的智能体生态及其对要求、剩余与主体的重新定位［EB/OL］. 漫步学派研究院，预印本（尚未同行评审），v5.1，2026-09-14. ⟨https://mindwalk-research-institute.github.io/agent-ecology-preprint/paper/paper-cn-v5.1.pdf⟩.
 
 **BibTeX**
 
@@ -44,9 +46,9 @@
   title        = {欲望—智能体回路：作为社会组织形态变化的智能体生态及其对要求、剩余与主体的重新定位},
   year         = {2026},
   month        = sep,
-  version      = {v5 定稿（中文全稿，92 页）},
+  version      = {v5.1（中文全稿，93 页）},
   howpublished = {预印本，尚未同行评审（preprint, not peer-reviewed）},
-  url          = {https://mindwalk-research-institute.github.io/agent-ecology-preprint/paper/paper-cn-v5.pdf},
+  url          = {https://mindwalk-research-institute.github.io/agent-ecology-preprint/paper/paper-cn-v5.1.pdf},
   note         = {许可：CC BY 4.0}
 }
 ```
@@ -66,7 +68,8 @@
 ├── mkdocs.yml                   阅读站配置（导航、中文检索、脚注、公式）
 ├── requirements.txt             构建依赖（只有 mkdocs-material 一个包）
 ├── .github/workflows/pages.yml  自动构建并部署到 Pages（mkdocs build --strict）
-├── paper/paper-cn-v5.pdf        中文全稿 PDF（与站点内副本同一份，MD5 相同）
+├── paper/paper-cn-v5.1.pdf      中文全稿 PDF v5.1（与站点内副本同一份，MD5 相同）
+├── paper/paper-cn-v5.pdf        中文全稿 PDF v5（初版，保留可访问）
 └── docs/
     ├── index.md                 首页：题名、署名、摘要、关键词、目录
     ├── 01-…19-*.md              第一至十九章（文件名 ASCII，页面标题中文）
@@ -74,7 +77,7 @@
     ├── refs.md                  参考文献 97 条（每条带锚点）
     ├── javascripts/mathjax.js   公式渲染配置
     ├── stylesheets/paper.css    中文排版微调
-    └── paper/paper-cn-v5.pdf    站点内的下载副本
+    └── paper/paper-cn-v5.1.pdf  站点内的下载副本（v5 副本同存）
 ```
 
 ## 为什么用 mkdocs-material（而不是 Docsify 或 Jekyll）
@@ -84,7 +87,7 @@
 1. **脚注必须保真**。全稿 57 条脚注，附录 A 的 47 条里每条都带来源 URL 与访问日期。
    python-markdown 的 `footnotes` 扩展原生处理 `[^id]`，多条引用可指向同一条；
    Docsify 的脚注要靠第三方插件、且不保证跨条复用，风险不可控。
-2. **公式不能被 Markdown 吃掉**。全稿 46 个显示式 + 146 个行内式，里面大量 `_`、`^`、`\text{}`。
+2. **公式不能被 Markdown 吃掉**。全稿 195 个公式（46 个显示式 + 149 个行内式），里面大量 `_`、`^`、`\text{}`。
    `pymdownx.arithmatex`（`generic: true`）在构建时把它们保护成 `\(...\)`，再交 MathJax 渲染；
    Jekyll/kramdown 也能配 MathJax，但对 `$$` 块内的下划线保护不如 arithmatex 明确。
 3. **构建必须在 CI 里可复现，而且要能"红掉"**。`mkdocs build --strict` 会把坏链、缺失锚点、
@@ -115,7 +118,7 @@ Markdown 文件，经「方案 A 章号重编 → `[cite:]` 转作者-年份链�
 PDF 由同一套正稿经 `协作/pdf/paper.py`（xelatex ＋ ctex ＋ plainnat）排出，交付件为
 `论文_中文_v5.pdf`；本仓库 `paper/` 与 `docs/paper/` 是它的两份副本（MD5 相同）。
 两者内容一致性核对：站点数学式 192＝PDF 192；站点小节标题 75＝PDF 75；
-正文→文献表链接 147 处全部落地；PDF 文献表 97 条＝站点 97 条。
+正文→文献表链接 148 处全部落地；PDF 文献表 97 条＝站点 97 条。
 
 ## 许可与第三方内容
 

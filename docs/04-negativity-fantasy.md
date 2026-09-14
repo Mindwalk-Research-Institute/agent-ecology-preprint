@@ -21,7 +21,7 @@ $$\text{“Agent 算法判断我应当选择 A，而我刻意选择 B —— 于
 
 在哲学本体论层面，本文深度继承了拉康—齐泽克学派关于**“否定性的肯定”（affirmation of negativity）**与**“与否定性共处”（tarrying with the negative）**的辩证法传统[[Zi{\v z}ek, 1989](refs.md#zizek1989_sublime_object); [Zi{\v z}ek, 1993](refs.md#zizek1993_tarrying_negative)]。
 
-在拉康精神分析视域下，否定性（匮乏、分裂与实在界的创伤）从来不是某种有待被技术进步彻底抚平的病理缺陷，而是人类主体性与欲望得以点燃的本体论前提。在此，**本文明确采纳祖潘契奇（Alenka Zupančič）与舒斯特（Aaron Schuster）一线对拉康《第七期研讨班》的肯定性解读**[[Zupan{\v c}i{\v c}, 2000](refs.md#zupancic2000_ethics_of_real); [Schuster, 2016](refs.md#schuster2016_practice_of_happy)]：伦理行动的本质恰恰在于直面实在界的不可还原性，并在不可能性的缝隙中开辟出行动的起点。齐泽克与祖潘契奇为此给出了著名的命题：
+在拉康精神分析视域下，否定性（匮乏、分裂与实在界的创伤）从来不是某种有待被技术进步彻底抚平的病理缺陷，而是人类主体性与欲望得以点燃的本体论前提。在此，**本文明确采纳祖潘契奇（Alenka Zupančič）对拉康《第七期研讨班》的肯定性解读，并参照舒斯特（Aaron Schuster）对拉康否定性概念的同向阐发**[[Zupan{\v c}i{\v c}, 2000](refs.md#zupancic2000_ethics_of_real); [Schuster, 2016](refs.md#schuster2016_practice_of_happy)]：伦理行动的本质恰恰在于直面实在界的不可还原性，并在不可能性的缝隙中开辟出行动的起点。齐泽克与祖潘契奇为此给出了著名的命题：
 
 $$\text{“不可能者恰恰会发生”（The impossible happens.）}$$
 
